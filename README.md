@@ -42,9 +42,6 @@ export OPENAI_API_KEY="*****"
 export OPENAI_BASE_URL="*****"
 ```
 
-### MCP Tools
-The source code is available at [code_server](https://github.com/sjtu-sai-agents/mcp_sandbox). You can clone the repository and deploy the code execution server using MCP Tools.
-
 ### Run RAG Monitor
 ```bash
 cd code
